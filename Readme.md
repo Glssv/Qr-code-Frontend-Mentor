@@ -47,6 +47,6 @@ Quero continuar praticando:
 ---
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXcxMzh2c3p2dWh3d2NuNnd1Zm0xcTZ1dmt1Zmx1Y2lreGZkc3RmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/45C6UzctolDdRFZG14/giphy.gif" width="250px">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXcxMzh2c3p2dWh3d2NuNnd1Zm0xcTZ1dmt1Zmx1Y2lreGZkc3RmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/45C6UzctolDdRFZG14/giphy.gif" width="270px">
   <p>Desenvolvido com 💜</p> 
 </div>
