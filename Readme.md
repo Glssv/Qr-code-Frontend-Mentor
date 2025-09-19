@@ -9,7 +9,7 @@ Essa é a minha solução para o desafio [QR code component](https://www.fronten
 ## 🔗 Links
 
 - **Solução no Frontend Mentor:** [Clique aqui]()
-- **Site ao vivo:** [Clique aqui]()
+- **Site ao vivo:** [Clique aqui](https://glssv.github.io/Qr-code-Frontend-Mentor/)
 
 ## 🛠️ Tecnologias utilizadas
 
